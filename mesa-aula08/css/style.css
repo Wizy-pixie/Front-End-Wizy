@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #131313;
+    background-repeat: repeat-x;
+    background-image: url(../img/proof-bts-new-album-2022.jfif)
+}
+
+h1 {
+    color: white;
+    font: 'roboto';
+    font-size: 1000;
+}
+
+.media-picture {
+    background-image: url(../mesa-aula08/img/proof-bts-new-album-2022.jfif);
+    height: 200px;
+    width: 500px;
+}  
+
+
+.media-artist {
+    background-image: url(../img/bts-proof-comeback-2022.jfif);
+    width: 300px;
+    height: 250px;
+    background-size: center;
+    background-position: center;
+}
+
+
+.review-score {
+    color: white;
+    background-color: #e7c118c5;
+    padding: 12px;
+}
+
+h2 {
+color: steelblue;
+}
+
+p {
+color: #bdbdbd;
+font-family: 'roboto';
+}
+a {
+color: rgb(225, 225, 110);
+}
